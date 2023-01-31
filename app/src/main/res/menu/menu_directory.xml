@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/idTabLayout" android:title="TabLayout" />
+    <item android:id="@+id/idBottomSheet" android:title="bottomSheetFragment"/>
+    <item android:id="@+id/idUpdateProfile" android:title="Update Profile" />
+    <item android:id="@+id/idLogout" android:title="Logout" />
+
+</menu>

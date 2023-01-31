@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/homeFragment" android:iconTint="@color/greenicon" android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+    <item  android:title="book" android:id="@+id/bookFragment" android:iconTint="@color/greenicon" android:icon="@drawable/ic_baseline_book_24" />
+    <item  android:title="Cart"  android:id="@+id/cartFragment" android:iconTint="@color/greenicon" android:icon="@drawable/ic_baseline_shopping_cart_24"/>
+</menu>
